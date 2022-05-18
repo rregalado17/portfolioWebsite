@@ -332,7 +332,7 @@ section{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 2rem;
-    padding-bottom: 3rem;
+    padding-bottom: rem;
     .timeline-item{
         position: relative;
         padding-left: 3rem;
