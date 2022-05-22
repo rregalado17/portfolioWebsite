@@ -176,7 +176,6 @@ section{
             }
         }
     }
-
     .right-header{
         display: flex;
         flex-direction: column;
@@ -245,7 +244,6 @@ section{
             }
         }
     }
-
     .left-about{
         padding-right: 5rem;
         p{
@@ -507,6 +505,13 @@ section{
     }
 }
 
+.contact-content-con{
+    display: flex;
+    padding-top: 3.5rem;
+    .left-contact{
+        flex: 2;
+    }
+}
 
 
 
